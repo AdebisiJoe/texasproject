@@ -1,6 +1,5 @@
 Age of Citizens
 
-#Texas based 
+# Dashbaord
 
-
-![Dashbaord] (images/dashboard.png)
+![Dashbaord](images/dashboard.png)
